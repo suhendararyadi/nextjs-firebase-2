@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "nextjs-app-572a3"
+  },
+  "targets": {},
+  "etags": {
+    "nextjs-app-572a3": {
+      "extensionInstances": {}
+    }
+  },
+  "dataconnectEmulatorConfig": {}
+}
